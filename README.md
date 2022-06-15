@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Rizaldy
 - 👀 I’m interested in Web Developtment And Mobile Development
-- 🌱 I’m currently learning ReactJS, and ExpressJS
+- 🌱 I’m currently learning ReactJS, and NextJs
 - 📫 How to reach me : email : muhammadrizaldy60@gmail.com
 
 <!---
